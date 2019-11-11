@@ -1,0 +1,19 @@
+{
+    "name": "lzy309/srproxy",
+    "description": "Redis connection pool based on swoole",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lizhaoyang",
+            "email": "619346077@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lizhaoyang\\SRProxy": "application"
+        }
+    }
+}
