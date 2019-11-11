@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "swoole/ide-helper": "@dev"
+    },
     "autoload": {
         "psr-4": {
             "Lizhaoyang\\SRProxy\\": "application"
